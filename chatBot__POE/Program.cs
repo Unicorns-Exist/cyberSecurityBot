@@ -31,8 +31,7 @@ namespace chatBot__POE
             // STEP 6: Start chatbot interaction
             bot.StartChat();
 
-            // STEP 7: enter key program close 
-            Console.ReadKey();
+ 
 
         }
 
