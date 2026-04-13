@@ -84,6 +84,7 @@ namespace chatBot__POE
                 // Prevent crash
                 if (!int.TryParse(Console.ReadLine(), out choice))
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Invalid input, enter a number.");
                     continue;
                 }
