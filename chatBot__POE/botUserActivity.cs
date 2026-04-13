@@ -51,12 +51,16 @@ namespace chatBot__POE
         //Array Answers
         private string[] answers =
         {
-        "I was created by a 2nd  Year student at Rosebank International, Kamogelo Tamia for cybersecurity awareness Assignment.",
-        "I provide tips on staying safe online.",
-        "Check sender email, avoid suspicious links.",
-        "Cookies store website data. Be careful.",
-        "Never share passwords or banking details."
-    };
+    "I was created by a second-year student, Kamogelo Tamia, at Rosebank International as part of a Programming POE. My purpose is to promote cybersecurity awareness and help users understand how to stay safe online.",
+
+    "I can inform you about basic cybersecurity practices such as identifying phishing attacks, protecting your personal information, understanding cookies, and following safe browsing habits.",
+
+    "Phishing emails are designed to trick you into giving away sensitive information. You can identify them by checking for suspicious sender addresses, spelling mistakes, urgent or threatening language, and links that don’t match legitimate websites. Always verify before clicking any link.",
+
+    "Cookies are small files stored on your device by websites to remember your preferences and improve your experience. While many cookies are safe, some can track your activity, so it is important to only accept cookies from trusted websites.",
+
+    "You should never share sensitive information such as your passwords, banking details, ID numbers, or personal addresses online. Even on social media, oversharing personal details can put you at risk of identity theft or cyber attacks."
+};
 
         //============================================================
 
