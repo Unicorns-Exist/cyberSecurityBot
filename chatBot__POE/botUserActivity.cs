@@ -86,6 +86,7 @@ namespace chatBot__POE
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Invalid input, enter a number.");
+                    Console.ResetColor();
                     continue;
                 }
 
