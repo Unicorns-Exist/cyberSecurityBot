@@ -43,9 +43,9 @@ namespace chatBot__POE
         {
         "Who created you?",
         "What can you inform me about?",
-        "How to detect phishing emails?",
-        "What are cookies?",
-        "What info should I not share?"
+        "what are phishing emails and how to detect them?",
+        "What are cookies- websites?",
+        "What info should I not share online?"
     };
 
         //Array Answers
